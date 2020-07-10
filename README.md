@@ -1,4 +1,6 @@
-### Hi there 👋
+### 🤔 :thinking\_now:
+
+Vivere in societe moderna vix est.
 
 <!--
 **namachan10777/namachan10777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
