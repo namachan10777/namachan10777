@@ -1,5 +1,7 @@
 ### 🤔 :thinking\_now:
 
+[![](https://img.shields.io/badge/life-failing-red.svg?style=plastic)](https://twitter.com/namachan10777)
+
 Vivere in societe moderna vix est.
 
 <!--
